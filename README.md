@@ -6,4 +6,4 @@ Analysis View
 
 Live View:
 
-![Cockpit Live View](https://i.ibb.co/6FhBrhr/3dVideo.gif)
+[Live View](https://github.com/AdilRaza02/predict.ly-pub/blob/main/live-view.mp4)
