@@ -4,6 +4,5 @@ Analysis View
 
 ![Cockpit Image](https://i.ibb.co/1bRfp9K/localhost-3000.png)
 
-Live View:
 
-[Live View](https://github.com/AdilRaza02/predict.ly-pub/blob/main/live-view.mp4)
+[Live View Video](https://github.com/AdilRaza02/predict.ly-pub/blob/main/live-view.mp4)
